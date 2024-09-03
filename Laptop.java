@@ -1,4 +1,4 @@
-package hw_Sat;
+package hw_Set;
 
 import java.util.Objects;
 
